@@ -2,4 +2,4 @@
 Migrant population for Bangkok
 
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[จำนวนประชากรแฝงรายเขตของกรุงเทพมหานคร](CACHE/MigrantBKK_diff.png)
