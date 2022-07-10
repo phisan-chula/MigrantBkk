@@ -1,10 +1,10 @@
 # MigrantBkk
 Migrant population for Bangkok
-<br\>
+<br/>
 ![จำนวนประชากรแฝงรายเขตของกรุงเทพมหานคร](CACHE/MigrantBKK_diff.png?raw=true "Title")
-<br\>
+<br/>
 ![สัดส่วน % ประชากรแฝงรายเขตของกรุงเทพมหานคร](CACHE/MigrantBKK_diff_perc.png?raw=true "Title")
-<br\>
+<br/>
 | ลำดับ | รหัส  |        เขต           |  ปชก.รวม | ปชก.ทะเบียน |   ประชากรแฝง    | ตร.กม.| เวลา |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | 00 | 1025   | Bang Phlat           |  222,080 |  100,319 |  121,761 (121.4%) |  11.8 | 3s. |
