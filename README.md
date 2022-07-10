@@ -1,8 +1,10 @@
 # MigrantBkk
 Migrant population for Bangkok
-
+<br\>
 ![จำนวนประชากรแฝงรายเขตของกรุงเทพมหานคร](CACHE/MigrantBKK_diff.png?raw=true "Title")
+<br\>
 ![สัดส่วน % ประชากรแฝงรายเขตของกรุงเทพมหานคร](CACHE/MigrantBKK_diff_perc.png?raw=true "Title")
+<br\>
 
 | ลำดับ | รหัส  |        เขต           |  ปชก.รวม | ปชก.ทะเบียน |   ประชากรแฝง    | ตร.กม.| เวลา |
 | 00 | 1025   | Bang Phlat           |  222,080 |  100,319 |  121,761 (121.4%) |  11.8 | 3s. |
@@ -36,6 +38,4 @@ Migrant population for Bangkok
 | 28 | 1012   | Yan na wa            |  193,278 |   82,481 |  110,797 (134.3%) |  12.5 | 2s. |
 | 29 | 1035   | Chom Thong           |  230,222 |  158,646 |   71,576 (45.1 %) |  23.2 | 3s. |
 | 30 | 1031   | Bang Kho laen        |  143,975 |   96,422 |   47,553 (49.3 %) |   8.3 | 2s. |
-
-
-
+<br\>
