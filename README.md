@@ -1,4 +1,4 @@
-# MigrantBkk
+# Migrant Population for Bangkok
 Migrant population for Bangkok
 ประชากรผู้อยู่อาศัยอยู่จริงในเมืองต่างๆทั่วโลก 
 Meta (Facebook) ได้ใช้ภาพถ่ายดาวเทียมรายละเอียดสูง (VHRS@GSD 30cm) ประกอบกับข้อมูลแสงไฟจากดาวเทียม DMSP และข้อมูลประกอบอื่นๆ ที่อาจบ่งชี้ถึงการอยู่อาศัยของมนุษย์บนพื้นผิวโลก รวมทั้งข้อมูลประชากาศาสตร์ของแต่ละประเทศ การประมวลที่ได้คือ แผนที่ความหนาแน่นของประชากรความละเอียดสูง [High-density Population Map](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps)<br/>
